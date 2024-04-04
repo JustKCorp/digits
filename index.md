@@ -1,1 +1,1 @@
-<img src="digits/landing.png">
+<img src="landing.png">
